@@ -1,6 +1,6 @@
 <img align = "center" alt="MasterHead" width="1200" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJzdTVucjl0MXQ1ZnFheXIzcHA4dTIxdGtpaGdqejZsaGxheTUxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1vohJMVMtjSQxmUot/giphy.webp">
 <h1 align="center">Hi 👋, I'm Limasha</h1>
-<h3 align="center">I'm a Undergraduate at SLIIT pursuing BSc (Hons) Degree in Information Technology Specialized in Software Engineering</h3>
+<h3 align="center">I'm an Undergraduate at SLIIT pursuing BSc (Hons) Degree in Information Technology Specialized in Software Engineering</h3>
 <img align="right" alt="Coding" width="300" height="300" src="https://th.bing.com/th/id/R.bb1e1343bb92b07be1a51d41e00fe2bf?rik=OfoM8UCYReBDCg&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limasham&label=Profile%20views&color=0e75b6&style=flat" alt="limasham" /> </p>
