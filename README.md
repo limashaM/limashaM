@@ -1,4 +1,4 @@
-<img align = "center" alt="MasterHead" width="1200" height="200" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
+<img align = "center" alt="MasterHead" width="1200" height="200" src="https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif">
 <h1 align="center">Hi 👋, I'm Limasha</h1>
 <h3 align="center">I'm a Undergraduate at SLIIT pursuing BSc (Hons) Degree in Information Technology Specialized in Software Engineering</h3>
 <img align="right" alt="Coding" width="300" height="300" src="https://th.bing.com/th/id/R.bb1e1343bb92b07be1a51d41e00fe2bf?rik=OfoM8UCYReBDCg&pid=ImgRaw&r=0">
